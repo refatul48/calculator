@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sodo matro pracitcis/1.0.0": {
+        "runtime": {
+          "sodo matro pracitcis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sodo matro pracitcis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

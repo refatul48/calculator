@@ -1,0 +1,14 @@
+D:\c# programing practices\sodo matro pracitcis\bin\Debug\net8.0\sodo matro pracitcis.exe
+D:\c# programing practices\sodo matro pracitcis\bin\Debug\net8.0\sodo matro pracitcis.deps.json
+D:\c# programing practices\sodo matro pracitcis\bin\Debug\net8.0\sodo matro pracitcis.runtimeconfig.json
+D:\c# programing practices\sodo matro pracitcis\bin\Debug\net8.0\sodo matro pracitcis.dll
+D:\c# programing practices\sodo matro pracitcis\bin\Debug\net8.0\sodo matro pracitcis.pdb
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.AssemblyInfoInputs.cache
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.AssemblyInfo.cs
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.csproj.CoreCompileInputs.cache
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.dll
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\refint\sodo matro pracitcis.dll
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.pdb
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\sodo matro pracitcis.genruntimeconfig.cache
+D:\c# programing practices\sodo matro pracitcis\obj\Debug\net8.0\ref\sodo matro pracitcis.dll
